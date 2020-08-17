@@ -1,4 +1,4 @@
-# vue-simple-password-meter
+# Getting started
 
 **Vue Simple Passwod Meter** is a simple password checker written in vanilla js and extremly lightweight (**3.2kb minified + Gzipped**)
 
@@ -106,20 +106,4 @@ export default {
 </script>
 ```
 
-## Contributing
 
-If you want to contribute to this project simply fork it and clone it then run
-`npm i`
-in the root of the project, then run
-`npm run serve`
-to run development server.
-
-## Motivation
-
-Since Every other components and libraries mostly were using [zxcvbn](https://github.com/dropbox/zxcvbn) was 799.5kb minified and 388.3kb minified and Gzipped so i decided to make simpler approach and use regex instead of dictionary for validating.
-
-### Licence and cast
-
-MIT Licence
-
-by [Milad Dehghan](https://dehghan.net)
