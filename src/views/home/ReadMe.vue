@@ -32,27 +32,6 @@ export default {
 .readme {
   padding: 3rem 0;
 
-  h1,
-  h2,
-  h3,
-  h4,
-  h5 {
-    margin-top: 2rem;
-  }
-
-  h1 {
-    font-size: 2rem;
-    margin-bottom: 0.5rem;
-  }
-
-  h2 {
-    font-size: 1.5rem;
-  }
-
-  h3 {
-    font-size: 1.2rem;
-  }
-
   p {
     margin-bottom: 1rem;
     margin-top: 0.5rem;
