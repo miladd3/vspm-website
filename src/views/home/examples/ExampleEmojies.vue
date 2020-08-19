@@ -60,7 +60,7 @@ input {
     font-size: 20px;
     margin-top: auto;
     top: 30px;
-    background-color: transparent;
+    background-color: transparent !important;
   }
 
   .po-password-strength-bar.risky {

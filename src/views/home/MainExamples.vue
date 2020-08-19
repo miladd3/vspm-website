@@ -5,7 +5,7 @@
 
       <example-wrap
         title="Simple Usage"
-        codesandbox-href="https://codesandbox.io/s/simple-example-for-vspm-1z2f4=/src/App.vue"
+        codesandbox-href="https://codesandbox.io/s/simple-example-for-vspm-1z2f4?file=/src/App.vue"
       >
         <example-simple />
       </example-wrap>
