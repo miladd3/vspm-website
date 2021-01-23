@@ -4,10 +4,6 @@
 
 #### This is `Vue 3.*` compatible version. If you are using `Vue 2.*` [Click Here](https://github.com/miladd3/vue-simple-password-meter#readme)
 
-## Demo
-
-[Demo](https://miladd3.github.io/vue-simple-password-meter/)
-
 ## Install
 
 `npm install vue-simple-password-meter@next --save`
