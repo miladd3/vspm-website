@@ -5,15 +5,18 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
+    "start": "node server/index.js",
     "lint": "vue-cli-service lint",
     "deploy": "node scripts/gh-pages-deploy.js"
   },
   "dependencies": {
     "babel-runtime": "^6.26.0",
     "core-js": "^3.6.5",
+    "express": "^4.17.1",
     "highlight.js": "^10.1.2",
     "pixelate": "0.0.5",
     "sass-mq": "^5.0.1",
+    "serve-static": "^1.14.1",
     "showdown-highlight": "^2.1.5",
     "vue": "^2.6.11",
     "vue-showdown": "^2.4.1",
