@@ -62,8 +62,8 @@ input {
   .po-password-strength-bar {
     border-radius: 2px;
     transition: all 0.2s linear;
-    height: 20px;
-    width: 20px;
+    height: 20px !important;
+    width: 20px !important;
     position: absolute;
     right: 10px;
     margin-top: auto;

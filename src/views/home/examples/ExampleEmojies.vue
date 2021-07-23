@@ -59,7 +59,7 @@ input {
     right: 10px;
     font-size: 20px;
     margin-top: auto;
-    width: auto;
+    width: auto !important;
     top: 30px;
     background-color: transparent !important;
   }
